@@ -1,0 +1,43 @@
+{
+  "creator_id": "X_Creator_Project_2026",
+  "content_type": "Premium Celebrity Aesthetics",
+  "visual_specifications": {
+    "aspect_ratio": "1:1",
+    "resolution": "1080x1080 pixels",
+    "lighting": "Soft Natural Winter Light"
+  },
+  "collection_data": [
+    {
+      "subject": "Sydney Sweeney",
+      "outfit_style": "Ribbed Emerald Bodysuit",
+      "scene_setting": "Mountain Cabin Interior / Snowy Forest View",
+      "visual_highlights": "Matte finish, high contrast green vs. white snow",
+      "keyword_tags": ["Alpine Chic", "Emerald Fashion"]
+    },
+    {
+      "subject": "Billie Eili sh",
+      "outfit_style": "Oversized Burgundy High-Neck",
+      "scene_setting": "Frost-Covered Birch Trees Background",
+      "visual_highlights": "Deep velvet textures and cool-toned shadows",
+      "keyword_tags": ["Burgundy Winter", "Alternative Style"]
+    },
+    {
+      "subject": "Sadie Sink",
+      "outfit_style": "Cobalt Blue Turtleneck with Tea Accessory",
+      "scene_setting": "Warm Wood Trim Window Frame / Valley View",
+      "visual_highlights": "Vibrant blue contrast with ginger hair tones",
+      "keyword_tags": ["Blue Winter", "Cozy Vibes"]
+    },
+    {
+      "subject": "Ana de Armas",
+      "outfit_style": "V-Neck Royal Blue & Mustard Yellow Accents",
+      "scene_setting": "Bright Minimalist Living Space / Arctic Fox View",
+      "visual_highlights": "Sharp detailing on accessories and footwear",
+      "keyword_tags": ["AnaDeArmasStyle", "VividAesthetics"]
+    }
+  ],
+  "engagement_metrics": {
+    "target_platform": "X / Twitter",
+    "intended_impact": "Viral Reach / Subscriber Exclusive Content"
+  }
+}
